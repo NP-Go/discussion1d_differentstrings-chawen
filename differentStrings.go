@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	stringA := `this is a string\n`
+	stringA := `this is a string\n\n\test line`
 	stringA = `this is a new string\n`
 
 	stringB := "this is a string\n"
